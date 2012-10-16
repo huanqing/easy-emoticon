@@ -1,0 +1,28 @@
+/*设置表情盒子样式*/
+#emotionbox1{
+	background:#fff;
+	padding:8px;
+	border:1px #dfe6f6 solid;
+}
+
+#emotionbox1 table td{
+	padding:2px;
+}
+#emotionbox1 table td img{
+	cursor:pointer;
+	border:1px #fff solid;
+}
+#emotionbox1 table td img:hover{
+	border:1px #0066cc solid;
+}
+/*设置表情盒子中img样式*/
+.smallImg{
+	
+	height:40px;
+	width:40px;
+}
+/*设置显示表情img样式*/
+.showImg{
+	height:80px;
+	width:80px;
+}
